@@ -1,5 +1,5 @@
 <h1 align='center'>
-    RocketShoes 👟
+    RocketShoes 🛒
 </h1>
 
 <p align='center'>
@@ -15,6 +15,7 @@
 - React-toastify
 - TypeScript
 - Styled-components
+- Fake API com json-server
 
 ### ⚙️ Funcionalidades
 - Adicionar itens ao carrinho
