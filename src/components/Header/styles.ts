@@ -31,8 +31,11 @@ export const Cart = styled(Link)`
     }
 
     span {
-      font-size: 12px;
-      color: #999;
+      font-size: .85rem;
+      margin-top: .2rem;
+      display: block;
+      color: #e7e7e7;
+      font-weight: bold;
     }
   }
 `;
